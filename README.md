@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-repositorio del modulo 2 prepcourse henry
+franco alberto alonso
+este pryecto es una prueba de como crear un repositorio y clonarlo desde github a mi computadora
